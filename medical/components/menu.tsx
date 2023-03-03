@@ -49,7 +49,6 @@ import {
             <Group position="right" spacing={40}>
               <Text weight={600} size={18} color='#262626'>Quality</Text>
               <Text weight={600} size={18} color='#262626'>Blog</Text>
-              <Text weight={600} size={18} color='#262626'>Quality</Text>
               <Title
                 weight={600} size={18} color='#262626'
                
